@@ -1,5 +1,8 @@
 # Rock Paper Scissors Game
 
+## Live Demo
+Site is live at https://srushti-devloper0410.github.io/Rock_Paper_Scissor_Game/
+
 ## Description
 
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The player competes against the computer, which generates random choices. The game displays the result and updates the score dynamically.
